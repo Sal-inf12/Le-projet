@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Exo1 {
     public static void main(String[] args) {
         // Vérifier si exactement deux arguments ont été fournis
@@ -16,4 +17,3 @@ public class Exo1 {
             System.out.println("Utilisation : java Exo1 <Prénom> <Nom>");
         }
     }
-}
