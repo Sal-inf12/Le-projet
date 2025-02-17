@@ -1,3 +1,3 @@
 @echo off
-set JAVA_TOOL_OPTIONS=
+set JAVA_TOOL_OPTION=
 start cmd.exe
